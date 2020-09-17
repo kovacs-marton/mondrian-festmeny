@@ -1,0 +1,34 @@
+#canvas {
+	width: 300px;
+	height: 300px;
+	background-color: #fffff0;
+	margin: 0 auto;
+	/*box-shadow: h-shadow v-shadow*/
+}
+
+#first-row {
+	background-color: #7cc576;
+}
+
+#big-rectangle {
+	height: 100%;
+	width: 75%;
+}
+
+#first-divider {
+	background-color: black;
+	height: 100%;
+	width: 3%;
+}
+
+.red {
+	background-color: red;
+}
+
+.right {
+	float: right;
+}
+
+.black {
+	background-color: black;
+}
